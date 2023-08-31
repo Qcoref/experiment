@@ -11,7 +11,6 @@ parser = BobcatParser()
 rewriter = Rewriter(['auxiliary','connector','coordination','determiner','object_rel_pronoun',
                         'subject_rel_pronoun','postadverb','preadverb','prepositional_phrase'])
 
-
 N = AtomicType.NOUN
 S = AtomicType.SENTENCE
 P = AtomicType.PREPOSITIONAL_PHRASE
