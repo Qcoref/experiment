@@ -1,0 +1,18 @@
+numpy==1.23.3
+pandas==1.5.2
+pytket==1.10.0
+pytket-qiskit==0.33.0
+scikit-learn==1.1.2
+scipy==1.9.1
+torch==1.12.1
+lambeq==0.3.1
+jax==0.4.2
+jaxlib==0.4.2
+qiskit==0.39.5
+qiskit-aer==0.11.2
+qiskit-ibm-runtime==0.8.0
+qiskit-ibmq-provider==0.19.2
+qiskit-terra==0.22.4
+tqdm==4.64.1
+discopro @ git+https://github.com/kinianlo/discopro.git@cdfa8a2070c68e4b99e2eae773a85582500be9f2
+discopy==0.5.1.1
